@@ -1,0 +1,22 @@
+{
+  "name": "d-encode-decode",
+  "version": "1.0.0",
+  "description": "Encode and Decode Uniquely Every Salt is different and Unique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dishantkapoor/d-encode-decode.git"
+  },
+  "keywords": [
+    "d-decode-encode"
+  ],
+  "author": "Dishant Kapoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dishantkapoor/d-encode-decode/issues"
+  },
+  "homepage": "https://github.com/dishantkapoor/d-encode-decode#readme"
+}
