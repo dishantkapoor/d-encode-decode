@@ -1,6 +1,6 @@
 {
   "name": "d-encode-decode",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Encode and Decode Uniquely Every Salt is different and Unique",
   "main": "index.js",
   "scripts": {
