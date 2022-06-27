@@ -1,7 +1,7 @@
 {
   "name": "d-encode-decode",
-  "version": "1.0.2",
-  "description": "Encode and Decode Uniquely Every Salt is different and Unique",
+  "version": "1.0.4",
+  "description": "Encode and Decode String Uniquely, Every Encryption is different and Unique",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,15 @@
     "url": "git+https://github.com/dishantkapoor/d-encode-decode.git"
   },
   "keywords": [
-    "d-decode-encode"
+    "d-decode-encode",
+    "encode",
+    "decode",
+    "ciphertext",
+    "token",
+    "timer-token",
+    "timer-ciphertext",
+    "limited-time-token",
+    "custom-encoding"
   ],
   "author": "Dishant Kapoor",
   "license": "ISC",

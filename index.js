@@ -93,7 +93,7 @@ function decode(string,time=0){
        const newDecipher = decipher(key_for_decode)
        var decoded_string=newDecipher(enc_string_data)
     }else{
-        var decoded_string="String Expired!";
+        var decoded_string=0;
     }
     }else{
         var key_for_decode=keys_set1[key_indexes[0]]+keys_set2[key_indexes[1]];

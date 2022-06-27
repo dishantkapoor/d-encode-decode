@@ -70,7 +70,7 @@ d.key("your key");
 
 # returns '500352555207520752064646414146465752570056545751'
 d.encode('hello',20) //Time in seconds d.encode("String to encode","Time in Seconds")
-# for above this key only valid for 20 seconds after that it returns "String Expired!"
+# for above this key only valid for 20 seconds after that it returns 0
 
 # Everytime you encode same string and get different unique encoded value
 # for "Hello" It returns
